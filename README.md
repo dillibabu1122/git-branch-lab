@@ -1,1 +1,1 @@
-# git-branch-lab
+This project demonstrates Git branching and conflict resolution.
